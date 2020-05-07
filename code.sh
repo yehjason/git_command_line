@@ -4,3 +4,5 @@ cd
 ls
 pwd
 
+# brilliant shell scripts
+
